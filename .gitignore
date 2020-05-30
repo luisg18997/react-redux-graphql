@@ -3,6 +3,9 @@
 # dependencies
 /node_modules
 /.pnp
+*-lock.json
+debug.log
+*.lock
 .pnp.js
 
 # testing
